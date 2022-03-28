@@ -1,0 +1,34 @@
+[
+    {
+        "username": "monika",
+        "password": "monu@12",
+        "re_password": "monu@12",
+        "date_of_birth": "12/02/2000",
+        "gender": "F",
+        "hobbies": "enter your hobbies: ",
+        "description": "nothing",
+        "contact": 12345
+    }
+,
+    {
+        "username": "monika",
+        "password": "monu@22",
+        "re_password": "monu@22",
+        "date_of_birth": "27/03/2001",
+        "gender": "f",
+        "hobbies": "enter your hobbies: ",
+        "description": "sdfgh",
+        "contact": 1234567898
+    }
+,
+    {
+        "username": "mona",
+        "password": "mj@22",
+        "re_password": "mj@22",
+        "date_of_birth": "27/03/2001",
+        "gender": "f",
+        "hobbies": "enter your hobbies: ",
+        "description": "werty",
+        "contact": 1234567898
+    }
+]
